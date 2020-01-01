@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'Dosis-Medium';
+   font-display: swap;
+   src: url('Dosis-Medium/font.ttf');
+}
+@font-face {
+   font-family: 'KulimPark-Light';
+   font-display: swap;
+   src: url('KulimPark-Light/font.ttf');
+}
