@@ -1072,7 +1072,7 @@ body {
 
 
   a #logo {
-        content: url("assets/images/logos.svg");
+        content: url("../../images/logos.svg");
     }
 }
 @media screen and (min-device-width: 400px) and (max-device-width: 1824px) and (orientation : landscape){
