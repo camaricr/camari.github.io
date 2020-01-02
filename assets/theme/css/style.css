@@ -1067,3 +1067,16 @@ body {
 	top: 0;
 	left: -2400px;
 }
+
+@media only screen and (max-width: 450px) {
+
+
+  a #logo {
+        content: url("assets/images/logos.svg");
+    }
+}
+@media screen and (min-device-width: 400px) and (max-device-width: 1824px) and (orientation : landscape){
+  .mbr-white {
+    margin-top: 3rem;
+  }
+}
